@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Csharpintro\kendidenemem2\bin\Debug\net6.0-windows\kendidenemem2.exe
+C:\Users\User\source\repos\Csharpintro\kendidenemem2\bin\Debug\net6.0-windows\kendidenemem2.deps.json
+C:\Users\User\source\repos\Csharpintro\kendidenemem2\bin\Debug\net6.0-windows\kendidenemem2.runtimeconfig.json
+C:\Users\User\source\repos\Csharpintro\kendidenemem2\bin\Debug\net6.0-windows\kendidenemem2.dll
+C:\Users\User\source\repos\Csharpintro\kendidenemem2\bin\Debug\net6.0-windows\kendidenemem2.pdb
+C:\Users\User\source\repos\Csharpintro\kendidenemem2\obj\Debug\net6.0-windows\kendidenemem2.Form1.resources
+C:\Users\User\source\repos\Csharpintro\kendidenemem2\obj\Debug\net6.0-windows\kendidenemem2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Csharpintro\kendidenemem2\obj\Debug\net6.0-windows\kendidenemem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Csharpintro\kendidenemem2\obj\Debug\net6.0-windows\kendidenemem2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Csharpintro\kendidenemem2\obj\Debug\net6.0-windows\kendidenemem2.AssemblyInfo.cs
+C:\Users\User\source\repos\Csharpintro\kendidenemem2\obj\Debug\net6.0-windows\kendidenemem2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Csharpintro\kendidenemem2\obj\Debug\net6.0-windows\kendidenemem2.dll
+C:\Users\User\source\repos\Csharpintro\kendidenemem2\obj\Debug\net6.0-windows\refint\kendidenemem2.dll
+C:\Users\User\source\repos\Csharpintro\kendidenemem2\obj\Debug\net6.0-windows\kendidenemem2.pdb
+C:\Users\User\source\repos\Csharpintro\kendidenemem2\obj\Debug\net6.0-windows\kendidenemem2.genruntimeconfig.cache
+C:\Users\User\source\repos\Csharpintro\kendidenemem2\obj\Debug\net6.0-windows\ref\kendidenemem2.dll

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Csharpintro\Csharpintro\bin\Debug\net6.0\Csharpintro.exe
+C:\Users\User\source\repos\Csharpintro\Csharpintro\bin\Debug\net6.0\Csharpintro.deps.json
+C:\Users\User\source\repos\Csharpintro\Csharpintro\bin\Debug\net6.0\Csharpintro.runtimeconfig.json
+C:\Users\User\source\repos\Csharpintro\Csharpintro\bin\Debug\net6.0\Csharpintro.dll
+C:\Users\User\source\repos\Csharpintro\Csharpintro\bin\Debug\net6.0\Csharpintro.pdb
+C:\Users\User\source\repos\Csharpintro\Csharpintro\obj\Debug\net6.0\Csharpintro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Csharpintro\Csharpintro\obj\Debug\net6.0\Csharpintro.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Csharpintro\Csharpintro\obj\Debug\net6.0\Csharpintro.AssemblyInfo.cs
+C:\Users\User\source\repos\Csharpintro\Csharpintro\obj\Debug\net6.0\Csharpintro.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Csharpintro\Csharpintro\obj\Debug\net6.0\Csharpintro.dll
+C:\Users\User\source\repos\Csharpintro\Csharpintro\obj\Debug\net6.0\refint\Csharpintro.dll
+C:\Users\User\source\repos\Csharpintro\Csharpintro\obj\Debug\net6.0\Csharpintro.pdb
+C:\Users\User\source\repos\Csharpintro\Csharpintro\obj\Debug\net6.0\Csharpintro.genruntimeconfig.cache
+C:\Users\User\source\repos\Csharpintro\Csharpintro\obj\Debug\net6.0\ref\Csharpintro.dll
